@@ -19,8 +19,8 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://github.com/Alyeko/automate-csv)
-- [Project 2 Title](https://github.com/Alyeko/Making-Cool-Maps-In-Python)
+- [Automate csv](https://github.com/Alyeko/automate-csv)
+- [Cool interactive maps with python](https://github.com/Alyeko/Making-Cool-Maps-In-Python)
 <!--[Project 3 Title](http://example.com/) -->
 <!--[Project 4 Title](http://example.com/) -->
 <!--[Project 5 Title](http://example.com/) -->
