@@ -2,17 +2,15 @@
 
 ---
 
-### Category Name 1 
-
-[Making Cool Maps in Python](/coolmaps)
+###[Making Cool Maps in Python](/coolmaps)
 <img src="images/snapshot for portfo cool maps.png?raw=true"/>
 
 ---
-[Pandas Automate Csv(Project in Progress)](/pdf/sample_presentation.pdf)
+###[Pandas Automate Csv(Project in Progress)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Crop Classification](http://example.com/)
+###[Crop Classification(Project in Progress](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
