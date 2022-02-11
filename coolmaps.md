@@ -2,9 +2,9 @@
 **Description:** 
 
 For this project, selected African cities were chosen, coordinates obtained from google, and geocoded with geopy.
-Folium was used to make an interactive maps with appropriate popups. 
+Folium was used to make an interactive map with appropriate popups. 
 
-Two articles [Making Cool Maps with Geopy and Folium](https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00) and [Your Cool Folium Maps on the Web](https://towardsdatascience.com/your-cool-folium-maps-on-the-web-313f9d1a6bcd) were written to share how to create the interactive map, visualizing African cities, and how to finally deploy it to the web, with heroku.
+Two articles [Making Cool Maps with Geopy and Folium](https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00) and [Your Cool Folium Maps on the Web](https://towardsdatascience.com/your-cool-folium-maps-on-the-web-313f9d1a6bcd) were written to share how to create the interactive map, visualizing African cities, and how to finally how to make a deployment to the web, with heroku.
 
 <img src="images/snapshot for portfo cool maps.png?raw=true"/>
 [The interactive map can be seen here](https://interactive-folium-map.herokuapp.com)
