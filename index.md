@@ -4,23 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Making Cool Maps in Python](/coolmaps)
+<img src="images/snapshot for portfo cool maps.png?raw=true"/>
+
+---
+[Pandas Automate Csv(Project in Progress)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Crop Classification](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Automate csv](https://github.com/Alyeko/automate-csv)
-- [Cool interactive maps with python](https://github.com/Alyeko/Making-Cool-Maps-In-Python)
 <!--[Project 3 Title](http://example.com/) -->
 <!--[Project 4 Title](http://example.com/) -->
 <!--[Project 5 Title](http://example.com/) -->
