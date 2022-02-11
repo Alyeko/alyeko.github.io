@@ -1,8 +1,7 @@
 title: Alberta Odamea Anim-Ayeko # your name (or website title) here
 logo: "/images/IMG-9429.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>I am currently studying Geospatial Sciences at University College London. I'm interested in solving problems at the intersection of geospatial science and data science<br>
+  <br>I am currently studying Geospatial Sciences at University College London, and interested in solving problems at the intersection of geospatial science and data science<br>
   <a href="https://www.linkedin.com/in/alberta-odamea-anim-ayeko">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
