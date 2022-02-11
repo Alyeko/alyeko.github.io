@@ -3,6 +3,7 @@ logo: "/images/IMG-9429.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>I am currently studying Geospatial Sciences at University College London, and interested in solving problems at the intersection of geospatial science and data science<br>
   <a href="https://www.linkedin.com/in/alberta-odamea-anim-ayeko">View My LinkedIn Profile</a> 
+  <a href="https://www.medium.com/@alyeko">Check out my Medium Profile</a>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
