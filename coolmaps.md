@@ -1,4 +1,4 @@
-# Cool Maps with Folium and Geopy
+# Cool Maps with Folium 
 **Tools Used: Python, Geopandas, Geopy, Folium** 
 
 **Description:** 
