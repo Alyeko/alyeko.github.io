@@ -2,7 +2,7 @@
 
 ---
 
-### [Making Cool Maps in Python](/coolmaps)
+### [Cool Maps with Folium](/coolmaps)
 <img src="images/snapshot for portfo cool maps.png?raw=true"/>
 
 ---
