@@ -1,5 +1,5 @@
-# Making-Cool-Maps-with-Popups
-**Language and Tools Used: Python, Geopandas, Geopy, Folium** 
+# Making Cool Maps with Popups
+**Tools Used: Python, Geopandas, Geopy, Folium** 
 **Description:** 
 
 For this project, selected African cities were chosen, coordinates obtained from a google search, and geocoded with geopy.
