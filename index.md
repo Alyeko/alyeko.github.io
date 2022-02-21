@@ -15,8 +15,7 @@
 
 
 ---
-### [Crop Classification(Project in Progress)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Machine Learning Methods for Crop Classification(Project in Progress)](https://github.com/Alyeko/crop-classfication)
 
 ---
 
