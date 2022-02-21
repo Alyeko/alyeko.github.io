@@ -1,8 +1,8 @@
 ## Portfolio
-
+## <img src="svgs/github.svg?raw=true"/>
 ---
 
-### [Cool Maps with Folium](/coolmaps)
+### [Making Cool Maps in Python](/coolmaps)
 <img src="images/snapshot for portfo cool maps.png?raw=true"/>
 
 ---
