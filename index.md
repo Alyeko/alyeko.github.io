@@ -1,6 +1,6 @@
 ## Portfolio
 ## <img src="svgs/github.svg?raw=true width="10%"height="10%">  <img src="svgs/linkedin.svg?width="10%"height="10%"raw=true"/>  <img src="svgs/medium.svg? width="50px" height="50px"raw=true"/> <img src="svgs/twitter.svg? width="50px" height="50px"raw=true"/> 
-<img width="200px" src="svgs/medium.svg"></img>
+<img width="200px" src="svgs/linkedin.svg"></img> <img width="200px" src="svgs/medium.svg"></img> <img width="200px" src="svgs/github.svg"></img> <img width="200px" src="svgs/twitter.svg"></img> 
 ---
 
 ### [Making Cool Maps in Python](/coolmaps)
