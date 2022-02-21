@@ -10,8 +10,8 @@
 <img src="images/QGIS screenshot showing the 5 layers.png?raw=true"/>
 
 ---
-### [Pandas Automate Csv(Project in Progress)]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Pandas Automate Csv](/automate_csv.md)
+
 
 ---
 ### [Crop Classification(Project in Progress)](http://example.com/)
