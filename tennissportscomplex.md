@@ -1,4 +1,4 @@
-# Descision making system for tennis sports complex
+## Descision Making System for Tennis Sports Complex
 **Tools Used: PostgreSQL/Postgis, QGIS** 
 
 **Description:** 
