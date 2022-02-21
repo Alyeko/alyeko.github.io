@@ -1,5 +1,5 @@
 # Automate Csv Data Deletion
-**Tools Used: Pandas**
+**Tools Used: Python, Pandas**
 
 **Description:** 
 A simple automation script which deletes unwanted rows and columns from a csv file based on certain keywords, without the user manually opening the files and doing the deletion themselves. 
