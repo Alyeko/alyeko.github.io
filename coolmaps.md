@@ -1,4 +1,4 @@
-# Making Cool Maps with Popups
+# Cool Maps with Folium and Geopy
 **Tools Used: Python, Geopandas, Geopy, Folium** 
 
 **Description:** 
