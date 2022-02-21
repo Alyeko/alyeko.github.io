@@ -11,7 +11,7 @@
 <img src="images/QGIS screenshot showing the 5 layers.png?raw=true"/>
 
 ---
-### [Pandas Automate Csv](/automate_csv.md)
+### [Automate Csv Data Deletion](/automate_csv)
 
 
 ---
