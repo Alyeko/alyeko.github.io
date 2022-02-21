@@ -2,7 +2,7 @@
 ## [<img width="50px" src="svgs/linkedin.svg">](https://www.linkedin.com/in/alberta-odamea-anim-ayeko) [<img width="50px" src="svgs/github.svg">](https://www.github.com/Alyeko) [<img width="50px" src="svgs/medium.svg">](https://alyeko.medium.com) [<img width="50px" src="svgs/twitter.svg">](https://www.twitter.com/Alyeko_)
 ---
 
-### [Making Cool Maps in Python](/coolmaps)
+### [Cool Maps with Folium](/coolmaps)
 <img src="images/snapshot for portfo cool maps.png?raw=true"/>
 
 ---
