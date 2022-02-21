@@ -6,11 +6,11 @@
 <img src="images/snapshot for portfo cool maps.png?raw=true"/>
 
 ---
-### [Decision Making System for Tennis Sports Complex](/coolmaps)
+### [Decision Making System for Tennis Sports Complex](/tennissportscomplex)
 <img src="images/QGIS screenshot showing the 5 layers.png?raw=true"/>
 
 ---
-### [Pandas Automate Csv(Project in Progress)](/pdf/tennissportscomplex.md)
+### [Pandas Automate Csv(Project in Progress)]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
