@@ -15,7 +15,7 @@
 
 
 ---
-### [Machine Learning Methods for Crop Classification(Project in Progress)](https://github.com/Alyeko/crop-classfication)
+### [Machine Learning Methods for Crop Classification(Project in Progress)](/crop_classification)
 
 ---
 
