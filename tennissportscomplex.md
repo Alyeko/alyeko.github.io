@@ -7,4 +7,5 @@ Data was inserted into the tables
 Views were created to aid in simpler querying for decision making 
 The data was then finally visualized in QGIS
 
+<img src="images/QGIS screenshot showing the 5 layers.png?raw=true"/>
 [Github link](https://github.com/Alyeko/decision-making-system-for-tennis-sports-complex)
