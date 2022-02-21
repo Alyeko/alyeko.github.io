@@ -1,5 +1,5 @@
 ## Portfolio
-## [<img width="70px" src="svgs/linkedin.svg">](https://www.linkedin.com/in/alberta-odamea-anim-ayeko) <img width="70px" src="svgs/github.svg"> <img width="70px" src="svgs/medium.svg"> <img width="70px" src="svgs/twitter.svg"> 
+## [<img width="70px" src="svgs/linkedin.svg">](https://www.linkedin.com/in/alberta-odamea-anim-ayeko) [<img width="70px" src="svgs/github.svg">](https://www.github.com/Alyeko) [<img width="70px" src="svgs/medium.svg">](https://alyeko.medium.com) [<img width="70px" src="svgs/twitter.svg">](https://www.twitter.com/Alyeko_)
 ---
 
 ### [Making Cool Maps in Python](/coolmaps)
