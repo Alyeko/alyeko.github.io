@@ -12,7 +12,8 @@
 6. Classification of the test data using diferent machine learning algorithms.
 
 
-```python #Investingating the imbalanced nature of the data
+```python 
+#Investingating the imbalanced nature of the data
 df = pd.DataFrame({'labels':['1', '2', '3', '4', '5', '6', '7'], 'value':[len(data[data['label']==n+1]) for n in range(data['label'].nunique())]})
 ax = df.plot.bar(x='labels', y='value', rot=0)
 plt.rcParams['figure.figsize'] =[7, 5]
@@ -24,7 +25,8 @@ for j in mapping:
 
 ```
 
-```python #Hyperparameter tuning
+```python 
+#Hyperparameter tuning
 param_grid = [{'max_depth':[2, 3, 5, 7, 9],
                'min_samples_split': [2, 3, 4, 5], 
                'splitter': ['best', 'random']}]
