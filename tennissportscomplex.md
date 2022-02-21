@@ -1,4 +1,6 @@
 # Descision making system for tennis sports complex
+**Tools Used: PostgreSQL/Postgis, QGIS** 
+
 **Description:** 
 In this project, a spatial database was created in PostgreSQL from scratch, 7 decisions were made with the data created and a QGIS visualization was finally made.
 
