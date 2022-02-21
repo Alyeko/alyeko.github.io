@@ -11,7 +11,7 @@
 
 ---
 ### [Pandas Automate Csv(Project in Progress)](/pdf/tennissportscomplex.md)
-<img src="images/dummy_thumbnail.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### [Crop Classification(Project in Progress)](http://example.com/)
