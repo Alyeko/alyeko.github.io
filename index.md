@@ -1,5 +1,5 @@
 ## Portfolio
-## <img src="svgs/github.svg?raw=true"/>
+## <img src="svgs/github.svg?raw=true"/>  <img src="svgs/linkedin.svg?raw=true"/>  <img src="svgs/medium.svg?raw=true"/> <img src="svgs/twitter.svg?raw=true"/> 
 ---
 
 ### [Making Cool Maps in Python](/coolmaps)
