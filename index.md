@@ -7,11 +7,11 @@
 
 ---
 ### [Decision Making System for Tennis Sports Complex](/coolmaps)
-<img src="images/snapshot for portfo cool maps.png?raw=true"/>
+<img src="images/QGIS screenshot showing the 5 layers.png?raw=true"/>
 
 ---
 ### [Pandas Automate Csv(Project in Progress)](/pdf/tennissportscomplex.md)
-<img src="images/QGIS screenshot showing the 5 layers.png?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
 ---
 ### [Crop Classification(Project in Progress)](http://example.com/)
