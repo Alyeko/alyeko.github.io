@@ -10,7 +10,9 @@
 4. Hyperparameter tuning 
 5. Checking the accuracy of the model using the validation set 
 6. Classification of the test data using diferent machine learning algorithms.
-```python
+
+
+```python #Investingating the imbalanced nature of the data
 df = pd.DataFrame({'labels':['1', '2', '3', '4', '5', '6', '7'], 'value':[len(data[data['label']==n+1]) for n in range(data['label'].nunique())]})
 ax = df.plot.bar(x='labels', y='value', rot=0)
 plt.rcParams['figure.figsize'] =[7, 5]
@@ -21,8 +23,8 @@ for j in mapping:
     print('{} has {}% rows of data out of the entire dataset.'.format(mapping[j], round(len(data[data['label']==j])/(len(data))*100, 2)))
 
 ```
-Hyperparameter tuning
-```python
+
+```python #Hyperparameter tuning
 param_grid = [{'max_depth':[2, 3, 5, 7, 9],
                'min_samples_split': [2, 3, 4, 5], 
                'splitter': ['best', 'random']}]
