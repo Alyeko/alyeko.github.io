@@ -36,4 +36,4 @@ grid_search = GridSearchCV(tree_clf, param_grid, cv=5, verbose=2)
 grid_search.fit(X_train, y_train)
 ```
 
-Github link for complete code for eda, dealing with imbalanced class and classification](https://github.com/Alyeko/crop-classfication)
+[Github link for complete code for eda, dealing with imbalanced class and classification](https://github.com/Alyeko/crop-classfication)
