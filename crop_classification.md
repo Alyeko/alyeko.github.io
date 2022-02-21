@@ -21,4 +21,15 @@ for j in mapping:
     print('{} has {}% rows of data out of the entire dataset.'.format(mapping[j], round(len(data[data['label']==j])/(len(data))*100, 2)))
 
 ```
+Hyperparameter tuning
+```python
+param_grid = [{'max_depth':[2, 3, 5, 7, 9],
+               'min_samples_split': [2, 3, 4, 5], 
+               'splitter': ['best', 'random']}]
+
+tree_clf = DecisionTreeClassifier()
+grid_search = GridSearchCV(tree_clf, param_grid, cv=5, verbose=2)
+grid_search.fit(X_train, y_train)
+```
+
 Github link for complete code for eda, dealing with imbalanced class and classification](https://github.com/Alyeko/crop-classfication)
