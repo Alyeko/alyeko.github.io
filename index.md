@@ -1,6 +1,6 @@
 # PORTFOLIO
 ---
-## [<img width="30px" src="svgs/linkedin.svg">](https://www.linkedin.com/in/alberta-odamea-anim-ayeko) [<img width="30px" src="svgs/github.svg">](https://www.github.com/Alyeko) [<img width="30px" src="svgs/medium.svg">](https://alyeko.medium.com) [<img width="30px" src="svgs/twitter.svg">](https://www.twitter.com/Alyeko_)
+## [<img width="30px" src="svgs/linkedin.svg">](https://www.linkedin.com/in/alberta-odamea-anim-ayeko) [<img width="30px" src="svgs/github.svg">](https://www.github.com/Alyeko) [<img width="30px" src="svgs/medium.svg">](https://alyeko.medium.com) [<img width="30px" src="svgs/twitter.svg">](https://www.twitter.com/Alyeko_) [<img width="30px" src="svgs/kaggle.svg">](https://www.kaggle.com/alyeko) 
 ---
 
 ### [Cool Maps with Folium](/coolmaps)
