@@ -11,6 +11,9 @@
 <img src="images/QGIS screenshot showing the 5 layers.png?raw=true"/>
 
 ---
+### [Spatial Variation of England Geospatial Jobs(Oct&Nov, 2021)](/geosptialjobs.md)
+<img src="images/spatial_var_gspl_jobs.PNG?raw=true"/>
+---
 ### [Automate Csv Data Deletion](/automate_csv)
 
 
