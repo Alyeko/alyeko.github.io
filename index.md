@@ -13,9 +13,9 @@
 ---
 ### [Spatial Variation of England Geospatial Jobs(Oct&Nov, 2021)](/geosptialjobs.md)
 <img src="images/spatial_var_gspl_jobs.PNG?raw=true"/>
+
 ---
 ### [Automate Csv Data Deletion](/automate_csv)
-
 
 ---
 ### [Machine Learning Methods for Crop Classification(Project in Progress)](/crop_classification)
